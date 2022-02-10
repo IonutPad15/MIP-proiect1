@@ -1,0 +1,10 @@
+Verify completed in 41.0042 milliseconds, total of 1 times in 41.0042 milliseconds.
+Native library pre-loader is trying to load native SQLite library "D:\programe C#\Lab3\bin\Debug\x86\SQLite.Interop.dll"...
+12/13/2021 5:34:57::831 PM    Connected to db
+12/13/2021 5:34:59::687 PM    Disconnected from db
+12/13/2021 5:35:01::114 PM    Connected to db
+12/13/2021 5:35:04::466 PM    Disconnected from db
+12/13/2021 5:35:12::296 PM    Connected to db
+12/13/2021 5:35:12::318 PM    Keyword added.
+12/13/2021 5:35:12::319 PM    Disconnected from db
+12/13/2021 5:35:20::048 PM    pagina blocata
