@@ -1,0 +1,12 @@
+O aplicatie de navigare pe internet, cu o lista de cuvinte blocate,
+conform cerintelor de la laborator:
+- Navigare cu optiunile specifice (forward, back, home, etc.).
+- Blocare URL pe baza unui set de cuvinte cheie.
+- Adaugare cuvinte cheie printr-un nou Form.
+- Vizualizarea listei de cuvinte cheie intr-un ComboBox.
+- Utilizare LINQ pentru filtrarea URL-urilor.
+- Utilizare AsyncTask pentru filtrarea URL-urilor si pentru
+scrierea in fisiere prin clasa Trace.
+- ADO.NET+SQLite pentru stocarea cuvintelor cheie.
+- Cuvintele cheie se incarca in Form (ComboBox) la pornirea
+aplicatiei.
